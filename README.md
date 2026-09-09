@@ -17,7 +17,7 @@ A machine learning project that predicts the presence of heart disease using cli
 | Model | Accuracy | Precision | Recall |
 |---|---|---|---|
 | Logistic Regression | 84.8% | 88.6% | 85.3% |
-| **Random Forest** | **87.5%** | **89.8%** | **89.0%** |
+| Random Forest | 87.5% | 89.8% | 89.0% |
 
 Random Forest was selected as the final model due to its higher overall performance and better recall, meaning it misses fewer true heart disease cases. It also proved more robust to the cholesterol data quality issue than Logistic Regression, whose metrics improved noticeably after the cleaning fix.
 
