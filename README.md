@@ -39,5 +39,4 @@ Python, pandas, scikit-learn, matplotlib, Google Colab
 3. Open `heart_disease_notebook.ipynb` in Jupyter or Google Colab
 4. Run all cells
 
-# Machine-Learning
- b221b96a434980f2d591704a0c2cac4d94b1c781
+
